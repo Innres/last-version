@@ -1,0 +1,6 @@
+clickthrough-1.18-fabric0.43.1-0.4.jar
+fabric-api-0.44.01.18.jar
+optifabric-1.12.10.jar
+OptiFine_1.18.1_HD_U_H4.jar
+plasmovoice-fabric-1.18.1-1.2.9.jar
+replaymod-fabric-1.18.1.jar
