@@ -6,4 +6,5 @@ Replay-Mod-Fabric-1.18.1.jar%-%Используется для красивых 
 advancementinfo-1.18-fabric0.43.1-1.3.jar%-%Подробности о ходе выполнения ачивок
 clickthrough-1.18-fabric0.43.1-0.4.jar%-%Позволяет кликать через рамки и таблички, чтобы установить предмет в рамку, зажми 'shift'
 InventoryProfilesNext-fabric-1.18.x-1.2.1.jar%-%Сортировка сундуков и инвентаря
+InventoryProfilesNext-fabric-1.18-1.2.4.jar%-%Сортировка сундуков и инвентаря
 shulkerboxtooltip-3.0.51.18.jar%-%Подсказки по содержимому шалкеров ('shift' в инвентаре)
